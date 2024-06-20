@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='WH_Alpha191',
+    name='WHAlpha191',
     version='0.1',
     packages=find_packages(),
     description='GTJA Alpha 191',
